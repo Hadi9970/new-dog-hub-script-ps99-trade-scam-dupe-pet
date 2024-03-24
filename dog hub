@@ -12,6 +12,7 @@ end
  
 function Menu()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Hadi9970/New-ps99-dog-hub-trade-scam-hub-dupe/main/dog%20hub"))()
+end"))()
 end
  
  
